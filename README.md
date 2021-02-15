@@ -2,7 +2,7 @@
 
 ### Education
 
-- **[2013-2019]** Lycée Saint Cricq -- Pau : *Baccalauréat S-SI*
+- **[2016-2019]** Lycée Saint Cricq -- Pau : *Baccalauréat S-SI*
 - **[2019-2021]** Lycée Louis Barthou -- Pau : *CPGE MPSI / MP (Option Info)*
 
 ### Expériences
